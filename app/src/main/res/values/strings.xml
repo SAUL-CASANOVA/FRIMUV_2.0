@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FRIMUV_2.0</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="email">correo@Alumnos.uady.mx</string>
+    <string name="password">**********</string>
+    <string name="name">Tu nombre completo</string>
+</resources>
